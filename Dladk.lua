@@ -148,8 +148,8 @@ local function buildMenu(version)
 	sg.DisplayOrder = 999
 	sg.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
-	local FULL_W = 280
-	local FULL_H = 340
+	local FULL_W = 240
+	local FULL_H = 310
 	local MINI_H = 42
 
 	local M = Instance.new("Frame", sg)
